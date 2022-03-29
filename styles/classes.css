@@ -1,0 +1,49 @@
+.logoSecundario {
+    text-align: center;
+    margin: auto;
+    width: 20%;
+    margin-top: 40px;
+}
+
+.parallax {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2Fn.1MMmZaWPj2gHzSzw3k2Q--~B%2FaD0zMDcwO3c9NTQ2NDtzbT0xO2FwcGlkPXl0YWNoeW9u%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fpt%2Ffolhapress_805%2Fe52b9be130c4c75fd687331f3d394ba3&f=1&nofb=1");    text-align: center;
+    margin: auto;
+    background-attachment: fixed;
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.nav-link {
+    color: #d7d9d8;
+}
+
+.logo-topo {
+    max-width: 20px;
+    min-width: 20px;
+}
+
+.texto {
+    font-family: 'arial';
+    color: #30150f;
+    font-size: clamp(1.3em, 1em + 3vw, 1em);
+    text-align: justify;
+}
+
+.margem {
+    margin: auto;
+    min-width: 60%;
+}
+
+.navbarTextoResponsivo {
+    left: 0px;
+    right: 0px;
+    width: auto;
+    margin-top: 0% !important;
+}
+
+.nav {
+    max-height: 60px;
+    min-height: 40px;
+}

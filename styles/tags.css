@@ -1,0 +1,27 @@
+@import url(fontes.css);
+
+
+body {
+    background-color: whitesmoke;
+}
+
+ul {
+    background-color: #c70303;
+    align-items: center;
+    display: flex;
+    list-style: none;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+h2 {
+    color: #d7d9d8;
+    font-family: 'Lemon light';
+}
+
+li {
+    font-family: 'Lemon light';
+    color: #d7d9d8;
+    margin-top: auto;
+}
+
